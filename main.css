@@ -1,0 +1,41 @@
+/* Estilos para h1 */
+h1 {
+    font-size: 32px; /* Tamaño de fuente en píxeles */
+    font-family: Arial, sans-serif; /* Familia de fuentes preferida */
+    padding: 10px; /* Espaciado interno */
+    margin: 20px 0; /* Espaciado externo arriba y abajo */
+    font-weight: bold; /* Peso de la fuente (normal, bold, etc.) */
+    text-decoration: underline; /* Decoración de texto (underline, none, etc.) */
+    color: #333; /* Color del texto en código hexadecimal o nombre */
+    background-color: #f0f0f0; /* Color de fondo en código hexadecimal o nombre */
+}
+
+/* Estilos para h2 */
+h2 {
+    font-size: 24px;
+    font-family: Georgia, serif;
+    padding: 8px;
+    margin: 15px 0;
+    font-weight: normal;
+    color: #444;
+    background-color: #eaeaea;
+}
+
+/* Estilos para párrafos */
+p {
+    font-family: "Times New Roman", serif;
+    font-size: 16px;
+    padding: 5px;
+    margin: 10px 0;
+    color: #666;
+    background-color: #fff;
+}
+
+/* Estilos para la clase .logo */
+.logo {
+    background-size: cover;
+    background-image: url(https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png);
+    background-color: #ccc;
+    height: 200px; /* Altura de la imagen */
+    width: 200px; /* Ancho de la imagen */
+}
